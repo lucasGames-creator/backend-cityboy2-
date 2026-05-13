@@ -1,5 +1,5 @@
 //Definindo meu nome
-let meuNome = "Lucas Murillo";
-let idade = 16;
+let meuNome = "Samuel Pereira";
+let idade = 18;
 
-console.log("Olá, meu nome é: " + meuNome + ". tenho " + idade + " anos.");
+console.log("Olá, meu nome é: " + meuNome + ". Tenho " + idade + " anos.");

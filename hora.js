@@ -1,10 +1,10 @@
 //Valores iniciais do dia
 let valorPorHora = 50;
-let HorasTrabalhadas = 8;
+let horasTrabalhadas = 8;
 
-console.log("---Resumo do Expediente---")
-console.log(`Horas iniciais: ${HorasTrabalhadas}h.`);
+console.log("---Resumo do Expediente---");
+console.log(`Horas iniciais: ${horasTrabalhadas}h.`);
 
 //git add hora.js
-//git commit -m "vesao2"
-//git pusk
+//git commit -m "versao2"
+//git push
